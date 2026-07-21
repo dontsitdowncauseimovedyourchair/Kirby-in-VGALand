@@ -1,5 +1,5 @@
 # Kirby-in-VGALand
-A little videogame inspired in Kirby's Adventure written from scratch in VHDL. Built from the half adder arithmetic circuit to the VGA controller all the way to the state machines of every entity.
+An FPGA-exclusive videogame inspired in Kirby's Adventure written from scratch in VHDL. Built from scratch from the mere half adder arithmetic circuits all the way to the VGA display and the state machines every entity is modeled on.
 
 The game is built for the Intel-Altera FPGA board DE10-Lite model 10M50DAF484C7GDAF.
 
